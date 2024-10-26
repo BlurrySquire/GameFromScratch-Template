@@ -1,0 +1,8 @@
+build
+
+# Visual Studio 2022
+*.vs
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
